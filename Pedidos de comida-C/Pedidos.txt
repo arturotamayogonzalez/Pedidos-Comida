@@ -1,0 +1,6 @@
+Producto:Calcetines
+ Precio:$23 Cantidad pedida:45 Costo:$1035
+El costo total de este pedido es:$1035
+Producto:Balon
+ Precio:$100 Cantidad pedida:56 Costo:$5600
+El costo total de este pedido es:$5600
